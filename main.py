@@ -80,6 +80,6 @@ if __name__ == '__main__':
 					 # [['R1', 'R2'], ['R1R2'], 50.0],
 	]
 
-	emulate(Mystates, Myreaction_list, render_list=['R1Br', 'R2Br'], max_time=650)
+	# emulate(Mystates, Myreaction_list, render_list=['R1Br', 'R2Br'], max_time=650)
 
-
+    
